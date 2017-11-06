@@ -1,10 +1,10 @@
-![Logo of the project](https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/logo_new.png)
+<img src="https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/logo_new.png" alt="spacetimeedu-logo" style="width: 100px; height: 100px">
 
 # File deduplicator using python
 
 This is a demo code that is used in this video: 
 
-[![YouTube_thumbnail](https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/deduplicator/thumbnail_final.png)](https://youtu.be/xCwi52jxFFM)
+<a href="https://youtu.be/xCwi52jxFFM"><img src="https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/deduplicator/thumbnail_final.png" alt="YouTube_thumbnail" style="width: 720px" /></a>
 
 ## Installing / Getting started
 
