@@ -4,7 +4,7 @@
 
 This is a demo code that is used in this video: 
 
-![https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/deduplicator/thumbnail_final.png](https://youtu.be/xCwi52jxFFM)
+[![YouTube_thumbnail](https://s3.ap-south-1.amazonaws.com/spacetime-education/Youtube-assets/deduplicator/thumbnail_final.png)](https://youtu.be/xCwi52jxFFM)
 
 ## Installing / Getting started
 
